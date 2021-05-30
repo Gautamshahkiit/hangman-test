@@ -66,3 +66,4 @@ IMAGES = ['''
 
 	
 ''']
+print(IMAGES)
